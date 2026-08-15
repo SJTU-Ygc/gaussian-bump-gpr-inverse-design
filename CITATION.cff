@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this software release."
+title: "Gaussian-Bump GPR Surrogate Modelling and Inverse Design"
+type: software
+version: 1.0.0
+date-released: 2026-08-16
+license: BSD-3-Clause
+authors:
+  - family-names: Yang
+    given-names: Guangchao
+  - family-names: Zhou
+    given-names: Xinzhong
+  - family-names: Liu
+    given-names: Xiaojing
+  - family-names: Xiong
+    given-names: Jinbiao
+  - family-names: Chai
+    given-names: Xiang
+  - family-names: Zhang
+    given-names: Tengfei
+  - family-names: He
+    given-names: Hui
+keywords:
+  - Gaussian-process regression
+  - inverse design
+  - heat transfer enhancement
+  - constrained optimisation
+  - Gaussian bump
