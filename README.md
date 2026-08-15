@@ -33,7 +33,7 @@ Main files:
 
 ## Data
 
-The data are supplied separately with the paper. Use Dataset 2 (`Single_bump_400_data.csv`) to train and validate the single-bump GPR models and Dataset 3 (`H3_720_data.csv`) for the H3 GPR models. Dataset 1 contains the numerical source data for main-text Figs. 1-10 and is not required for model training. These datasets are not duplicated in this code repository.
+The data are supplied separately with the paper. Use Dataset 2 (`Single_bump_400_data.csv`) to train and validate the single-bump GPR models and Dataset 3 (`H3_720_data.csv`) for the H3 GPR models.
 
 ## Example
 
