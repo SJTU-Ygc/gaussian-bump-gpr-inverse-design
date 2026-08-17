@@ -40,7 +40,7 @@ The data are supplied separately with the paper. Use Dataset 2 (`Single_bump_400
 ```python
 from bump_inverse_design import load_csv, fit_surrogate_bundle
 
-data, schema = load_csv("Single_bump_400_data.csv", case="single")
+data, schema = load_csv("Dataset 1.csv", case="single")
 X = data.loc[:, schema.feature_columns].to_numpy()
 y = {name: data[name].to_numpy() for name in schema.target_columns}
 models = fit_surrogate_bundle(X, y, case="single")
